@@ -337,7 +337,7 @@ vim /etc/zabbix/zabbix_server.conf
 #
 # Mandatory: no
 # Default:
-DBPassword=Curso!Zabbix5
+DBPassword=Zabbix!Maratona3
 ```
 
 ### Habilitar inicialização do serviço e inicia-lo
